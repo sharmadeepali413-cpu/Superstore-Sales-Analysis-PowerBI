@@ -150,8 +150,8 @@ Superstore-Sales-Analysis-PowerBI/
 
 **Deepali Sharma**
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/deepali-sharma-689731340)
-- **GitHub:** [View my projects](https://github.com/sharmadeepali413-cpu)
+- **LinkedIn:** [https://www.linkedin.com/in/deepali-sharma-689731340](https://www.linkedin.com/in/deepali-sharma-689731340)
+- **GitHub:** [https://github.com/sharmadeepali413-cpu](https://github.com/sharmadeepali413-cpu)
 
 ---
 
